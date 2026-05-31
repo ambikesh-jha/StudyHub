@@ -1,0 +1,2 @@
+"""Study Hub application package."""
+
